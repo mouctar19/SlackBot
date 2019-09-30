@@ -1,5 +1,5 @@
 {
-  "name": "inspireNuggetsSlackBot",
+  "name": "TechQuote",
   "version": "1.0.0",
   "description": "A simple Slackbot that displays random inspiring techie quotes and jokes for developers/designers.",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BolajiAyodeji/inspireNuggetsSlackBot.git"
+    "url": "git+https://github.com/mouctar19/SlackBot.git"
   },
-  "author": "Bolaji Ayodeji",
+  "author": "Mamadou Diallo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BolajiAyodeji/inspireNuggetsSlackBot/issues"
+    "url": "https://github.com/mouctar19/SlackBot/issues"
   },
-  "homepage": "https://github.com/BolajiAyodeji/inspireNuggetsSlackBot#readme",
+  "homepage": "https://github.com/mouctar19/SlackBot#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
