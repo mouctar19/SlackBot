@@ -5,7 +5,7 @@ require('dotenv').config();
 
 const bot = new SlackBot({
     token: `${process.env.BOT_TOKEN}`,
-    name: 'inspirenuggets'
+    name: 'TechQuote'
 })
 
 // Start Handler
